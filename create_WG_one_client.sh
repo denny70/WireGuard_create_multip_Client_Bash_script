@@ -17,7 +17,7 @@ clientName=$2
 clientIP=10.0.0.$1
 #====================
 serverIP=111.222.333.242:11154
-serverPublicKey=UpvqUFPaIHtqhp2nPpDXZozN0EOwqB+2EJ26mDnB83I=
+serverPublicKey=UpvqUFPaIHtqhp2nPpDXZozN0EOwqB+2EJ26mDDD83I=
 #====== need to modify part when changing server IP
 
 generate_wg_server_client(){
