@@ -16,7 +16,7 @@ clientName=$2
 #clientIP=10.0.0.6
 clientIP=10.0.0.$1
 #====================
-serverIP=104.248.155.242:10654
+serverIP=111.222.333.242:10654
 serverPublicKey=UpvqUFPaIHtqhp2nPpDXZozN0EOwqB+2EJ26mDnB83I=
 #====== need to modify part when changing server IP
 
