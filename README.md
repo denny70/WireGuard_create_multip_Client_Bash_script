@@ -13,10 +13,10 @@ It can be used User name List to create WireGuard configure Server and Many User
     - clientList
 The content of script which need to be modified
 #====== need to modify information when you create new config file
-severConfigName=wg0
-severPort=51825
-serverIP=111.222.333.444:$severPort
-clientList="client-1 client-2 client-3 client-4"
+severConfigName=wg0 \n
+severPort=51825 \n
+serverIP=111.222.333.444:$severPort \n
+clientList="client-1 client-2 client-3 client-4" \n
 #======
 
 2) To use this script to add new user at Server Configure file and create new user configure file
