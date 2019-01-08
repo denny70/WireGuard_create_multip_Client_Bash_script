@@ -13,7 +13,7 @@ example:
 
 severConfigName=wg0
 severPort=51825
-serverIP=111.222.333.444:$severPort
+serverIP=111.111.111.111:$severPort
 clientList="client-1 client-2 client-3 client-4"
 
 Then run script
@@ -22,7 +22,7 @@ the example will generate Server config file(wg0.conf) and Client config files(c
 
 2) To use this script to add new user at Server Configure file and create new user configure file
 To update setting variable first in the script file
-serverIP=111.222.333.242:11154
+serverIP=111.111.111.111:11154
 serverPublicKey=UpvqUFPaIHtqhp2nPpDXZozN0EOwqB+2EJ26mDDD83I=
 
 Then Run
